@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Arjun Chouksey — software developer building intelligent, useful products" width="100%" />
+  <img src="./assets/header.svg" alt="Arjun Chouksey - software developer building intelligent, useful products" width="100%" />
 </div>
 
 <div align="center">
@@ -8,9 +8,9 @@
   <a href="https://github.com/arjun-chouksey?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore_my_work-7c3aed?style=flat-square&logo=github&logoColor=white" alt="Explore Arjun's projects" /></a>
 </div>
 
-## Hello — I'm Arjun 👋
+## Hello, I'm Arjun 👋
 
-I'm a software developer who enjoys turning repetitive problems into useful products. My work sits at the intersection of **AI, full-stack engineering, and practical automation** — from real-time messaging systems to document intelligence and recommendation engines.
+I'm a software developer who enjoys turning repetitive problems into useful products. My work sits at the intersection of **AI, full-stack engineering, and practical automation** - from real-time messaging systems to document intelligence and recommendation engines.
 
 - 🔭 Building full-stack products and AI agents
 - 🧠 Exploring applied ML, semantic search, RAG, and document intelligence
@@ -19,7 +19,7 @@ I'm a software developer who enjoys turning repetitive problems into useful prod
 
 ## Experience
 
-### Data Engineer Intern · Amazon Web Services (AWS)
+### SDE Intern · Amazon Web Services (AWS)
 
 <p>
   <img src="https://img.shields.io/badge/AWS_FinTech-Hyderabad-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS FinTech, Hyderabad" />
